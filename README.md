@@ -1,8 +1,8 @@
 I've built some cool startups: <br>
-[Insurie AI](insurieai.com) <br>
-[Aviato](https://www.aviato.co/) <br>
-[WealthSeed](https://www.wealthseed.ca/) <br>
-[Esocial](https://glosswidnika.pl/osmoklasista-przestawia-zdalne-nauczanie/)
+🚀[Insurie AI](insurieai.com) - AI Life Insurance Quoting and Field Underwriting Agent<br>
+📊[Aviato](https://www.aviato.co/) - Bloombering Terminal for Private Markets <br>
+🤑[WealthSeed](https://www.wealthseed.ca/) - Gamified Financial Literacy Platform for High School Students <br>
+📚[Esocial](https://glosswidnika.pl/osmoklasista-przestawia-zdalne-nauczanie/) - Reimagined LMS Platform for Schools
 
 <!--
 **Nikita-B05/Nikita-B05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
