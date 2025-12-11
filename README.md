@@ -1,7 +1,8 @@
-I've built some cool startups:
-[Insurie AI](insurieai.com)
-[Aviato](aviato.co)
-[WealthSeed](wealthseed.ca)
+I've built some cool startups: <br>
+[Insurie AI](insurieai.com) <br>
+[Aviato](https://www.aviato.co/) <br>
+[WealthSeed](https://www.wealthseed.ca/) <br>
+[Esocial](https://glosswidnika.pl/osmoklasista-przestawia-zdalne-nauczanie/)
 
 <!--
 **Nikita-B05/Nikita-B05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
