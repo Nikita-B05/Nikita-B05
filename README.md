@@ -1,4 +1,7 @@
-## Hi there 👋
+I've built some cool startups:
+[Insurie AI](insurieai.com)
+[Aviato](aviato.co)
+[WealthSeed](wealthseed.ca)
 
 <!--
 **Nikita-B05/Nikita-B05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
